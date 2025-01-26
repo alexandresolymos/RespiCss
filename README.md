@@ -10,7 +10,7 @@
 ## Installation
 
 ```html
-<link rel="stylesheet" href="flexbox-framework.css">
+<link rel="stylesheet" href="respi.css">
 ```
 
 ## Basic Usage
